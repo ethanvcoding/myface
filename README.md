@@ -1,6 +1,6 @@
 # My Face Everywhere
 
-This Chrome extension replaces all images and videos with images of yourself. All the action happens locally, and your data is never sent to Google or any websites. Just follow the instructions below to get it all set up!
+This Chrome extension replaces all images and videos with images of yourself. All the action happens locally, and your data is never sent to Google or any websites. Just follow the instructions below to get it all set up! It even disguises itself as a print utility, if you want to prank your buddy.
 
 # Setup
 
