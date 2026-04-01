@@ -17,10 +17,10 @@ c) Go into your file explorer and unzip the file (double-click)
 
 ## 2. Add Your Images
 
-a) Put images into the image folder (max: #)  
+a) Put images into the image folder (max: 6)  
 ![Step 2a](.blob/img/md/readme/screenshot/7642095/2/a/jpg/image.jpg)
 
-b) Rename to image#.jpg  
+b) Rename to image#.png  
 ![Step 2b](.blob/img/md/readme/screenshot/1289376/2/b/jpg/image.jpg)
 
 c) Open Chrome  
